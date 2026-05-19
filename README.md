@@ -48,16 +48,8 @@ Computer Engineering Graduate • Backend Development
   </a>
 </div>
 
-<br>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AhmetTaha1&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats" />
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetTaha1&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" />
-</p>
-
-<br>
+<br><br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
 </div>
