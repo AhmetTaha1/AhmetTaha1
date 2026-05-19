@@ -48,8 +48,6 @@ Computer Engineering Graduate • Backend Development
   </a>
 </div>
 
-<br><br>
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
 </div>
